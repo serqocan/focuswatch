@@ -1,64 +1,71 @@
-Son güncelleme: Ocak 2025
+Privacy Policy
+Effective Date: [7.03.2026]
 
-1. Giriş
+Focus Watch ("we," "our," or "us") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and share information when you use our mobile application.
 
-Bu Gizlilik Politikası, Focus Watch uygulamasının kullanıcı verilerini nasıl topladığını, işlediğini ve koruduğunu açıklar. Uygulamayı kullanarak bu politikayı kabul etmiş sayılırsınız.
+1. Information Collection and Use
+To provide a better experience while using our Service, we may require you to provide us with certain personally identifiable information. The information that we request will be retained by us and used as described in this privacy policy.
 
-2. Topladığımız Veriler
+2. Third-Party Services
+Our app uses third-party services that may collect information used to identify you. Below are the providers we use:
 
-Hesap bilgileri: Google ile giriş yapıldığında görünen ad, e-posta ve profil fotoğrafı.
-Kullanım verileri: Odaklanma süreleri, tamamlanan görev sayısı, XP puanları, seri bilgisi.
-Cihaz bilgileri: Yalnızca işletim sistemi türü ve sürümü. Cihaz kimliği (IMEI vb.) toplanmaz.
-Bildirim tercihleri: Yalnızca cihazınızda saklanır, sunucuya gönderilmez.
+Google Play Services: Used for app functionality and security.
 
-3. Verilerin Kullanım Amacı
+Google AdMob & AdSense: Used to deliver personalized and non-personalized advertisements. They may use tracking technologies to serve ads based on your interests.
 
-Hesap oluşturma ve doğrulama
-İlerlemenin kaydedilmesi ve senkronizasyonu
-Sıralama tablosunun güncellenmesi
-Hata ayıklama ve uygulama kalitesinin iyileştirilmesi
+Firebase & Google Analytics: We use these to understand app usage, track crashes, and improve user experience. These services collect data such as device identifiers, session information, and usage patterns.
 
-4. Veri Paylaşımı
-Kişisel verileriniz asla reklam amaçlı kullanılmaz veya üçüncü taraflara satılmaz. Google Firebase altyapısı kullanılmaktadır (policies.google.com).
+3. Log Data
+In case of an error in the app, we collect data and information (through third-party products) on your phone called Log Data. This may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing our Service, and other statistics.
 
-5. Veri Güvenliği
-Verileriniz TLS ile şifrelenerek iletilir ve Google Firebase'de endüstri standardı güvenlik önlemleriyle saklanır. Hesabınızı sildiğinizde tüm kişisel verileriniz 30 gün içinde kalıcı olarak silinir.
+4. Cookies and Tracking
+The app does not use “cookies” explicitly. However, the app may use third-party code and libraries (like AdMob) that use “cookies” or mobile identifiers to collect information and improve their services.
 
-6. Kullanıcı Hakları (KVKK)
-Verilerinize erişme, düzeltme, silme ve taşıma haklarınız mevcuttur. Bu haklarınızı kullanmak için uygulama içinden hesabınızı silebilir ya da serqanaktas@gmail.com adresine e-posta gönderebilirsiniz.
+5. Children’s Privacy
+Our services do not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children under 13 years of age. If we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers.
 
-7. Çocukların Gizliliği
-Uygulama 13 yaşın altındaki çocuklara yönelik değildir. Bu duruma ilişkin bir şüpheniz varsa lütfen bize bildirin.
+6. Data Security
+We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable.
 
-8. İletişim
-Sorularınız için: serqanaktas@gmail.com — Yanıt süresi: 72 iş saati.
+7. Changes to This Privacy Policy
+We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes.
 
-English:
+8. Contact Us
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us at: [serqanaktas[a]gmail.com]
 
-1. Introduction
-This Privacy Policy describes how the Focus Watch application collects, processes, and protects your personal data. By using the application, you agree to this policy.
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-2. Data We Collect
-Account information: Display name, email address, and profile photo provided by Google upon sign-in.
-Usage data: Focus session durations, completed task counts, XP points, and streak information.
-Device information: Operating system type and version only. Device identifiers (IMEI, etc.) are not collected.
-Notification preferences: Stored locally on your device only, not sent to servers.
-3. How We Use Your Data
-Account creation and authentication
-Saving and synchronizing your progress
-Updating the in-app leaderboard
-Debugging and improving application quality
-4. Data Sharing
-Your personal data is never used for advertising or sold to third parties. We use Google Firebase infrastructure (policies.google.com).
+Gizlilik Politikası
+Yürürlük Tarihi: [07.03.2026]
 
-5. Data Security
-Your data is transmitted encrypted (TLS) and stored in Google Firebase with industry-standard security measures. When you delete your account, all personal data is permanently deleted within 30 days.
+Focus Watch ("biz", "bizim"), mobil uygulamamızı kullandığınızda bilgilerinizin nasıl toplandığını, kullanıldığını ve paylaşıldığını açıklayan bu Gizlilik Politikası ile gizliliğinizi korumayı taahhüt eder.
 
-6. Your Rights (GDPR)
-You have the right to access, correct, delete, and port your data. To exercise these rights, delete your account within the app or contact us at serqanaktas[a]gmail.com.
+1. Bilgi Toplama ve Kullanım
+Size daha iyi bir deneyim sunabilmek amacıyla, Hizmetimizi kullanırken bize doğrudan veya dolaylı olarak belirli kişisel bilgileri sağlamanızı isteyebiliriz. İstediğimiz bilgiler tarafımızca saklanacak ve bu gizlilik politikasında açıklandığı şekilde kullanılacaktır.
 
-7. Children's Privacy
-The application is not directed at children under 13. If you believe this has occurred, please notify us immediately.
+2. Üçüncü Taraf Hizmetleri
+Uygulamamız, sizi tanımlamak için kullanılan bilgileri toplayabilen üçüncü taraf hizmetlerini kullanmaktadır. Kullandığımız sağlayıcılar şunlardır:
 
-8. Contact
-For any questions: serqanaktas[a]gmail.com — Response time: 72 business hours.
+Google Play Hizmetleri: Uygulama işlevselliği ve güvenliği için kullanılır.
+
+Google AdMob & AdSense: Size kişiselleştirilmiş veya kişiselleştirilmemiş reklamlar sunmak için kullanılır. Bu servisler, ilgi alanlarınıza göre reklam sunmak için izleme teknolojileri kullanabilir.
+
+Firebase & Google Analytics: Uygulama kullanımını anlamak, hataları (crash) izlemek ve kullanıcı deneyimini iyileştirmek için kullanılır. Bu hizmetler; cihaz kimliği, oturum bilgileri ve kullanım kalıpları gibi verileri toplar.
+
+3. Günlük Verileri (Log Data)
+Uygulamada bir hata oluşması durumunda, telefonunuzda Günlük Verileri adı verilen verileri ve bilgileri (üçüncü taraf ürünler aracılığıyla) topluyoruz. Bu veriler; cihazınızın İnternet Protokolü (“IP”) adresi, cihaz adı, işletim sistemi sürümü, Hizmetimizi kullanırken uygulamanın yapılandırması ve diğer istatistikleri içerebilir.
+
+4. Çerezler ve İzleme
+Uygulama doğrudan "çerez" (cookie) kullanmaz. Ancak uygulama, bilgi toplamak ve hizmetlerini iyileştirmek için çerezleri veya mobil tanımlayıcıları kullanan üçüncü taraf kodları ve kitaplıkları (AdMob gibi) kullanabilir.
+
+5. Çocukların Gizliliği
+Hizmetlerimiz 13 yaşın altındaki hiç kimseye hitap etmemektedir. 13 yaşın altındaki çocuklardan bilerek kişisel olarak tanımlanabilir bilgiler toplamıyoruz. 13 yaşından küçük bir çocuğun bize kişisel bilgilerini verdiğini fark edersek, bunları derhal sunucularımızdan siliyoruz.
+
+6. Veri Güvenliği
+Kişisel Bilgilerinizi bize sağlama konusundaki güveninize değer veriyoruz; bu nedenle bilgilerinizi korumak için ticari olarak kabul edilebilir yöntemleri kullanmaya çalışıyoruz. Ancak internet üzerinden hiçbir iletim yönteminin veya elektronik depolama yönteminin %100 güvenli ve güvenilir olmadığını ve mutlak güvenliği garanti edemeyeceğimizi unutmayın.
+
+7. Bu Gizlilik Politikasındaki Değişiklikler
+Gizlilik Politikamızı zaman zaman güncelleyebiliriz. Bu nedenle, herhangi bir değişiklik için bu sayfayı periyodik olarak incelemeniz önerilir.
+
+8. Bize Ulaşın
+Bu Gizlilik Politikası hakkında herhangi bir sorunuz veya öneriniz varsa, bizimle şu adresten iletişime geçmekten çekinmeyin: [serqanaktas[a]gmail.com]
