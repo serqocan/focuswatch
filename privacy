@@ -5,6 +5,16 @@ Focus Watch ("we," "our," or "us") is committed to protecting your privacy. This
 
 1. Information Collection and Use
 To provide a better experience while using our Service, we may require you to provide us with certain personally identifiable information. The information that we request will be retained by us and used as described in this privacy policy.
+  1.1 Special Permissions & App Functionality:
+To provide our core "Focus Mode" and "App Blocking" features, our application requires the following specific permissions:
+
+App Usage Stats (PACKAGE_USAGE_STATS): This permission is used solely to detect which app is currently in the foreground. This allows Focus Watch to block distracting apps during your focus sessions. We do not collect, store, or transmit any data regarding your overall app usage history.
+
+System Alert Window: This is used to display the "Focus Overlay" screen on top of other applications when they are blocked, ensuring you stay committed to your tasks.
+
+Notifications (POST_NOTIFICATIONS): Used to send you reminders for your habits, daily missions, and focus session updates.
+
+Vibrate & Wake Lock: These are used to provide haptic feedback during interactions and to prevent the device from sleeping during an active focus timer.
 
 2. Third-Party Services
 Our app uses third-party services that may collect information used to identify you. Below are the providers we use:
@@ -42,6 +52,17 @@ Focus Watch ("biz", "bizim"), mobil uygulamamızı kullandığınızda bilgileri
 
 1. Bilgi Toplama ve Kullanım
 Size daha iyi bir deneyim sunabilmek amacıyla, Hizmetimizi kullanırken bize doğrudan veya dolaylı olarak belirli kişisel bilgileri sağlamanızı isteyebiliriz. İstediğimiz bilgiler tarafımızca saklanacak ve bu gizlilik politikasında açıklandığı şekilde kullanılacaktır.
+
+Özel İzinler ve Uygulama İşlevselliği:
+"Odaklanma Modu" ve "Uygulama Engelleme" özelliklerimizi sunabilmek için uygulamamız şu özel izinlere ihtiyaç duyar:
+
+Uygulama Kullanım İstatistikleri (PACKAGE_USAGE_STATS): Bu izin, yalnızca o anda hangi uygulamanın ön planda olduğunu tespit etmek için kullanılır. Bu sayede Focus Watch, odaklanma seanslarınız sırasında dikkat dağıtıcı uygulamaları engelleyebilir. Genel uygulama kullanım geçmişinize dair hiçbir veriyi toplamıyoruz, saklamıyoruz veya iletmiyoruz.
+
+Sistem Uyarı Penceresi (SYSTEM_ALERT_WINDOW): Diğer uygulamalar engellendiğinde, ekranda "Odaklanma Paneli"ni göstermek ve görevlerinize sadık kalmanızı sağlamak için kullanılır.
+
+Bildirimler (POST_NOTIFICATIONS): Alışkanlık hatırlatıcıları, günlük görevler ve odaklanma seansı güncellemelerini size iletmek için kullanılır.
+
+Titreşim ve Uyku Kilidi (VIBRATE & WAKE_LOCK): Etkileşimler sırasında dokunsal geri bildirim sağlamak ve aktif bir odaklanma zamanlayıcısı sırasında cihazın uyku moduna geçmesini önlemek için kullanılır.
 
 2. Üçüncü Taraf Hizmetleri
 Uygulamamız, sizi tanımlamak için kullanılan bilgileri toplayabilen üçüncü taraf hizmetlerini kullanmaktadır. Kullandığımız sağlayıcılar şunlardır:
